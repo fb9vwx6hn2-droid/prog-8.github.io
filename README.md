@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+https://mydomain.com
 <html lang="ja">
 <head>
   <meta charset="UTF-8" />
